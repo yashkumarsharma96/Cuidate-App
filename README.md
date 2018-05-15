@@ -1,1 +1,1 @@
-# Cuidate App
+# STS
